@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--color name="colorPrimary">#3c4ee7</color>
+    <color name="colorPrimaryDark">#0c1eb6</color>
+    <color name="colorAccent">#666666</color-->
+
+    <!--PRIMARY    #2c4eff                   -->
+    <!--DARKKKK    #0c1eb6                   -->
+
+
+
+    <color name="colorPrimary">#2c4eff</color>
+    <color name="colorPrimaryDark">#0c1eb6</color>
+    <color name="colorAccent">#666666</color>
+
+    <color name="absen_hijau">#009999</color>
+    <color name="absen_kuning">#FF9632</color>
+    <color name="absen_merah">#C81E1E</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#3c4ee7</color>
+    <color name="red">#ff0000</color>
+
+    <color name="colorNavigationIcon">#dae9f6</color>
+    <color name="colorNavigationText">#ffffff</color>
+
+    <!--color untuk gradient tansition-->
+    <color name="purple_500">#9c27b0</color>
+    <color name="deep_purple_500">#673ab7</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="cyan_500">#00bcd4</color>
+    <color name="light_blue_500">#03a9f4</color>
+</resources>

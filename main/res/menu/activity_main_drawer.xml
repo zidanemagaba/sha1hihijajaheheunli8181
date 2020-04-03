@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/about_me"
+            android:icon="@drawable/ic_biodata"
+            android:title="Biodata" />
+        <item
+            android:id="@+id/assigment"
+            android:icon="@drawable/ic_tugas"
+            android:title="Tugas" />
+        <item
+            android:id="@+id/absensi"
+            android:icon="@drawable/ic_absensi"
+            android:title="Presensi Kuliah" />
+        <item
+            android:id="@+id/kuliah_online"
+            android:icon="@drawable/ic_kulino"
+            android:title="Kuliah Online" />
+        <item
+            android:id="@+id/tagihan_keuangan"
+            android:icon="@drawable/ic_keuangan"
+            android:title="Tagihan Keuangan" />
+        <item
+            android:id="@+id/riwayat_keuangan"
+            android:icon="@drawable/ic_tagihan"
+            android:title="Riwayat Keuangan" />
+        <item
+            android:id="@+id/download"
+            android:icon="@drawable/ic_download"
+            android:title="Download PDF" />
+
+
+
+
+    </group>
+
+    <item android:title="Lainnya">
+        <menu>
+            <!--item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Kirim Rating" /-->
+            <!--item
+                android:id="@+id/ipk"
+                android:icon="@drawable/ic_ipk"
+                android:title="Cari IPK" /-->
+            <item
+                android:id="@+id/repository"
+                android:icon="@drawable/ic_repository"
+                android:title="Repository" />
+            <item
+                android:id="@+id/teman_sekelas"
+                android:icon="@drawable/ic_teman"
+                android:title="Teman Sekelas" />
+            <item
+                android:id="@+id/jadwal_waldos"
+                android:icon="@drawable/ic_dosen"
+                android:title="Jadwal Dosen Wali" />
+            <item
+                android:id="@+id/info_akademik"
+                android:icon="@drawable/ic_info"
+                android:title="Info Akademik" />
+            <item
+                android:id="@+id/kalender_akademik"
+                android:icon="@drawable/ic_kalender"
+                android:title="Kalender Akademik" />
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>
